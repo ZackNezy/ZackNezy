@@ -1,4 +1,4 @@
-## KNTNBOTWA
+## ZACKNEZY
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -16,8 +16,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/benisadewa/kntnbotwa
-> cd kntnbotwa
+> git clone https://github.com/ZackNezy/ZackNezy
+> cd ZackNezy
 > npm i -g cwebp && npm i -g ytdl
 > npm i && npm i got
 > bash install.sh
